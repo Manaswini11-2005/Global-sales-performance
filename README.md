@@ -90,6 +90,8 @@ It provides insights into sales, profit, customer distribution, and product perf
 
 ---
 
+<img width="1284" height="746" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/9949d1d9-b6df-4fcc-8b89-35d93deb2e8a" />
+
 ## 🙌 Author
 
 **Manaswini Kolupula**
