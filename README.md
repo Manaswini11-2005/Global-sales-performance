@@ -1,8 +1,8 @@
-# 📊 Sales & Revenue Analysis Dashboard (Power BI)
+# 📊 Global slaes Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
 
-This project presents an interactive **Sales & Revenue Analysis Dashboard** built using Power BI.
+This project presents an interactive **Global slaes Analysis Dashboard** built using Power BI.
 It provides insights into sales, profit, customer distribution, and product performance across different regions.
 
 ---
